@@ -5,4 +5,4 @@ Hello! This is a simple ToDo app I made in Java 2-3 months ago cause I was bored
 ![image](https://github.com/Cat3457/ToDo-App-in-Java/assets/82710010/6ae2233e-54f6-42d6-8ba5-6ccd40e7c4f1)
 
 
-### If you're here, might aswell check out [My Website](https://www.cat3457.github.io)
+### If you're here, might aswell check out [My Website](https://www.cat3457.github.io), yes this is an ad now lol
